@@ -16,3 +16,5 @@ utilizando o Microsoft Azure.
 *   DHCP.
 ---------------------------------------------------------------------------------------------
 - Em seguinda irei montar um firewall Pfsense junto ao monitoramento do Zabbix. 
+
+![02](https://user-images.githubusercontent.com/100032235/179428850-b0da3751-92ba-4fe6-bd3f-86a4fc2122a1.png)
