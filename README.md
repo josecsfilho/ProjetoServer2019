@@ -18,3 +18,8 @@ utilizando o Microsoft Azure.
 - Em seguinda irei montar um firewall Pfsense junto ao monitoramento do Zabbix. 
 
 ![02](https://user-images.githubusercontent.com/100032235/179428850-b0da3751-92ba-4fe6-bd3f-86a4fc2122a1.png)
+
+---------------------------------------------------------------------------------------------
+Serviços de AD instalados 
+![03](https://user-images.githubusercontent.com/100032235/179430486-bdac5975-5041-4053-94e0-ce1882ab3ae9.png)
+
