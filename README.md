@@ -21,8 +21,10 @@ utilizando o Microsoft Azure.
 
 ---------------------------------------------------------------------------------------------
 Serviços de AD instalados 
+
 ![03](https://user-images.githubusercontent.com/100032235/179430486-bdac5975-5041-4053-94e0-ce1882ab3ae9.png)
 
 ---------------------------------------------------------------------------------------------
 AD instalado, configurado e também com 2 departamento criados.
+
 ![04](https://user-images.githubusercontent.com/100032235/179858806-24535ebd-347c-4206-8818-7523fc1f2b76.png)
