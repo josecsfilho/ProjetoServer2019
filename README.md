@@ -28,3 +28,8 @@ Serviços de AD instalados
 AD instalado, configurado e também com 2 departamento criados.
 
 ![04](https://user-images.githubusercontent.com/100032235/179858806-24535ebd-347c-4206-8818-7523fc1f2b76.png)
+
+---------------------------------------------------------------------------------------------
+Maquina windows 10 inserida no domínio com suceso
+
+![image](https://user-images.githubusercontent.com/100032235/179870793-4cb23f01-b71f-4a44-80a8-f3f45c75608c.png)
