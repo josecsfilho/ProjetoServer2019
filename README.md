@@ -33,3 +33,22 @@ AD instalado, configurado e também com 2 departamento criados.
 Maquina windows 10 inserida no domínio com suceso
 
 ![image](https://user-images.githubusercontent.com/100032235/179870793-4cb23f01-b71f-4a44-80a8-f3f45c75608c.png)
+
+---------------------------------------------------------------------------------------------
+Servidor1 
+Placa de Rede Interna IP: 192.168.100.10
+                    Mask: 255.255.255.0
+
+![05](https://user-images.githubusercontent.com/100032235/180627852-d06699d2-f5e3-4aa4-bf65-95bab8989d0d.png)
+
+---------------------------------------------------------------------------------------------
+Servidor2 
+Placa de Rede Interna IP: 192.168.100.11
+                    Mask: 255.255.255.0
+                     DNS: 192.168.100.10
+
+![06](https://user-images.githubusercontent.com/100032235/180627854-7be73d75-2db1-4761-a1f0-086d75a7dbd5.png)
+
+
+
+                  
